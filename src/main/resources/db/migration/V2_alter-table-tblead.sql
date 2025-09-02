@@ -1,0 +1,1 @@
+ALTER TABLE tblead ADD column cpf VARCHAR(15);

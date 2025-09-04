@@ -25,8 +25,8 @@ Este projeto é um reflexo do aprendizado prático no SENAI, com foco em soluç�
 ## 🛠️ Tecnologias Utilizadas
 
 **Tecnologias Utilizadas**
-
-☕ **Java** | Linguagem principal para lógica de negócios
+-----
+| ☕ **Java** | Linguagem principal para lógica de negócios
 | 🌱 **Spring Boot** | Framework para construção da API REST 
 | 🗃️ **JPA** | Especificação para mapeamento objeto-relacional
 | ⚙️ **Hibernate** | Implementação do JPA para persistência de dados

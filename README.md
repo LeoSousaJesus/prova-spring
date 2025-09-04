@@ -24,12 +24,14 @@ Este projeto é um reflexo do aprendizado prático no SENAI, com foco em soluç�
 
 ## 🛠️ Tecnologias Utilizadas
 
-- ☕ **Java** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) - Linguagem principal para lógica de negócios
-- 🌱 **Spring Boot** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) - Framework para construção da API REST
-- 🗃️ **JPA** ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=databricks&logoColor=white) - Especificação para mapeamento objeto-relacional
-- ⚙️ **Hibernate** ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) - Implementação do JPA para persistência de dados
-- 🐬 **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) - Banco de dados relacional
-- 🐦 **Flyway** ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white) - Gerenciamento de migrações de banco de dados
+| Tecnologia | Descrição | Badge |
+|------------|-----------|-------|
+| ☕ **Java** | Linguagem principal para lógica de negócios | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| 🌱 **Spring Boot** | Framework para construção da API REST | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) |
+| 🗃️ **JPA** | Especificação para mapeamento objeto-relacional | ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=databricks&logoColor=white) |
+| ⚙️ **Hibernate** | Implementação do JPA para persistência de dados | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) |
+| 🐬 **MySQL** | Banco de dados relacional | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| 🐦 **Flyway** | Gerenciamento de migrações de banco de dados | ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white) |
 
 -----
 

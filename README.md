@@ -54,8 +54,8 @@ Siga os passos abaixo para clonar, configurar e executar o projeto localmente:
 ### 1\. Clone o Repositório
 
 ```bash
-git clone https://github.com/zikes18/edukacode.git
-cd edukacode
+git clone https://github.com/LeoSousaJesus/prova-spring.git
+cd prova-spring
 ```
 
 ### 2\. Configure o Banco de Dados

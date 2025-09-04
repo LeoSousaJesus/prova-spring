@@ -151,7 +151,7 @@ Se você gostou do projeto ou quer conversar sobre oportunidades, entre em conta
 
   * 📧 **Email**: seu.email@example.com
   * 💼 **LinkedIn**: [Seu LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/seulinkedin)
-  * 🐙 **GitHub**: [LeoSousaJesus](https://www.google.com/search?q=https://github.com/LeoSousaJesus)
+  * 🐙 **GitHub**: [LeoSousaJesus](https://github.com/LeoSousaJesus)
 
 -----
 

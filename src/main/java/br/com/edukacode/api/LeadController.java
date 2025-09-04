@@ -1,7 +1,6 @@
 package br.com.edukacode.api;
 
 import java.util.List;
-import static java.util.stream.Collectors.toList;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
